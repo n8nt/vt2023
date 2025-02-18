@@ -18,4 +18,7 @@ cp versatune/scripts/restartCombiTunerExpress.sh /usr/local/apps/versatune/scrip
 cp versatune/homepi/dotProfile /home/pi/.profile
 cp versatune/homepi/dotBashrc /home/pi/.bashrc
 cp updatevt.sh /home/pi/.
+cp copyfiles.sh /home/pi/.
+chmod 755 /home/pi/updatevt.sh
+chmod 755 /home/pi/copyfiles.sh
 echo "Finished"
