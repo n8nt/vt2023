@@ -22,5 +22,5 @@ rm -rf versatune
 git clone https://github.com/n8nt/vt2023.git
 cd /usr/local/apps/deployer/vt2023
 pwd
-echo "Run the command: './copyfiles.sh'" 
+echo "Run the command: 'source copyfiles.sh'" 
 
