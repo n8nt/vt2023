@@ -21,4 +21,6 @@ cp updatevt.sh /home/pi/.
 cp copyfiles.sh /home/pi/.
 chmod 755 /home/pi/updatevt.sh
 chmod 755 /home/pi/copyfiles.sh
+cd /home/pi
+pwd
 echo "Finished"
