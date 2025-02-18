@@ -21,3 +21,5 @@ cd /usr/local/apps/deployer
 rm -rf versatune
 git clone https://github.com/n8nt/vt2023.git
 cd vt2023
+echo "Run the command: "./copyfiles.sh" 
+
